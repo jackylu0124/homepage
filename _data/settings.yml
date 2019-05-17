@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Duet
+  site_title: Jacky Lu
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -10,17 +10,19 @@ menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
+    - title: 'Research'
+      url: '/research/'
     - title: 'Blog'
       url: '/blog/'
     - title: 'About'
-      url: '/about'
+      url: '/about/'
     - title: 'Contact'
-      url: '/contact'
+      url: '/contact/'
 
 footer_settings:
   logo_image:
   logo_width: 200
-  footer_tagline: A beautiful, minimal two-column portfolio Jekyll theme
+  footer_tagline: I'm Jacky Lu - Aspiring Graphics Software Engineer & Computer Graphics Enthusiast
 
 grid_settings:
   overlay_opacity: 0.8
@@ -39,7 +41,7 @@ social_settings:
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
-  vimeo_url: ''
+  vimeo_url: 'https://vimeo.com/jackylu'
   pinterest_url: ''
   medium_url: ''
   quora_url: ''
