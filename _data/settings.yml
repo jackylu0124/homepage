@@ -1,11 +1,11 @@
 basic_settings:
-  site_title: JIECONG JACKY LU
+  site_title: Jiecong Jacky Lu
   favicon_image: /images/favicon.png
 
 header_settings:
   logo_image:
   logo_width: 200
-  header_tagline: I'm Jacky Lu - Aspiring Graphics Software Engineer & Computer Graphics Enthusiast
+  #header_tagline: #I'm Jacky Lu - Aspiring Graphics Software Engineer & Computer Graphics Enthusiast
 
 menu_settings:
   menu_items:
@@ -23,7 +23,7 @@ menu_settings:
 footer_settings:
   logo_image:
   logo_width: 200
-  footer_tagline: I'm Jacky Lu - Aspiring Graphics Software Engineer & Computer Graphics Enthusiast
+  footer_tagline: Aspiring Graphics Software Engineer & Computer Graphics Enthusiast
 
 grid_settings:
   overlay_opacity: 0.8
